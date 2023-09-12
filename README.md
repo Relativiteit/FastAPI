@@ -1,2 +1,4 @@
 # FastAPI
-Basic FastAPI app to get my bearings in the technology 
+Basic FastAPI app to get my bearings in the technology.
+
+# Enums
